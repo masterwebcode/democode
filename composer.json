@@ -1,0 +1,7 @@
+{
+    "name":"masterwebcode/democode",
+    "description":"masterwebcode democode for testing",
+    "require":{
+        "ImageModule": "^1.0"
+    }
+}
